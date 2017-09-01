@@ -1,9 +1,12 @@
-public class Test {
+package org.github.snambi.jdk8.util;
+
+public class NumberUtil {
     
     // 0, 1, 1, 2, 3, 5, 8
     // fib = n + ( n-1 )
     // fib( 4 ) = 1 +1 = 2
     // fib( 5) = 2+ 1 = 3
+
 
     public static int findFibonacci(int n) {
         
